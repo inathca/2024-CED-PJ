@@ -1,1 +1,2 @@
-# Cyber-101
+# 2024-CED-PJ
+## Natcha Tararit 6502041610101
